@@ -1,0 +1,46 @@
+
+/* Header Section */
+.header-section {
+    background-image: url('https://images.unsplash.com/photo-1606128031531-52ae98c9707a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ4fHxjYXJzJTIwYXVjdGlvbnxlbnwwfHwwfHx8MA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.header-section .display-4 {
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+
+.header-section .lead {
+    color: #dcdcdc;
+}
+
+/* Main Content */
+.main-content {
+    padding: 50px 0;
+}
+
+.main-content h2 {
+    margin-bottom: 20px;
+}
+
+.main-content p {
+    color: #555;
+}
+
+/* Footer */
+.footer {
+    background-color: #222;
+}
+
+.footer p {
+    margin-bottom: 0;
+}
+
+.form-group{
+
+}
